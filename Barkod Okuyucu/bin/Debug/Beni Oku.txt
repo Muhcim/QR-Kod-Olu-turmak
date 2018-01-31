@@ -1,0 +1,1 @@
+Dosyayý içinden çýkarýyoruz ve referance eklýyoruz

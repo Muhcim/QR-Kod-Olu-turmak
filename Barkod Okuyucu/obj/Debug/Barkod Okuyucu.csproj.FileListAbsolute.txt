@@ -1,0 +1,37 @@
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.exe
+c:\users\everest\documents\visual studio 2013\Projects\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.pdb
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe.config
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.exe
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.pdb
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.pdb
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csprojResolveAssemblyReference.cache
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Form1.resources
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Properties.Resources.resources
+E:\DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csproj.GenerateResource.Cache
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe.config
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.exe
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.pdb
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.pdb
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csprojResolveAssemblyReference.cache
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Form1.resources
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Properties.Resources.resources
+E:\C #DERSLER AYIRMALI\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csproj.GenerateResource.Cache
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe.config
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.exe
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.pdb
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.exe
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\bin\Debug\Barkod Okuyucu.pdb
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csprojResolveAssemblyReference.cache
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Form1.resources
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod_Okuyucu.Properties.Resources.resources
+E:\C #DERSLER Açıklamalı\Barkod Okuyucu\Barkod Okuyucu\obj\Debug\Barkod Okuyucu.csproj.GenerateResource.Cache
